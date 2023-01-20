@@ -24,7 +24,7 @@ A passionate React Developer 🚀 having an experience of designing and building
   <code><img width="13%" src="./images/tailwind.png"></code>
   <br />
   <code><img width="13%" src="./images/reactjs.jpeg"></code>
-  <code><img width="13%" src="./images/mngodb.png"></code>
+  <code><img width="13%" src="./images/mongodb.png"></code>
   <code><img width="13%" src="./images/mysql.png"></code>
   <br />
   <code><img width="13%" src="./images/remixjs.jpeg"></code>
