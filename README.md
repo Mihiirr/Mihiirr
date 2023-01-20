@@ -19,20 +19,16 @@ A passionate React Developer 🚀 having an experience of designing and building
 
 <p>
   
-  <code><img width="13%" src="./images/python-ar21.svg"></code>
-  <code><img width="13%" src="./images/djangoproject-ar21.svg"></code>
-  <code><img width="13%" src="./images/djang-rest-framework-logo.webp"></code>
+  <code><img width="13%" src="./images/ts_logo.png"></code>
+  <code><img width="13%" src="./images/nodejs.png"></code>
+  <code><img width="13%" src="./images/tailwind.png"></code>
   <br />
-  <code><img width="13%" src="./images/celery.png"></code>
-  <code><img width="13%" src="./images/scrapy1.png"></code>
-  <code><img width="13%" src="./images/nginx-ar21.svg"></code>
+  <code><img width="13%" src="./images/reactjs.jpeg"></code>
+  <code><img width="13%" src="./images/mngodb.html"></code>
+  <code><img width="13%" src="./images/mysql.png"></code>
   <br />
-  <code><img width="13%" src="./images/gunicorn-ar21.svg"></code>
-  <code><img width="13%" src="./images/jenkins-ar21.svg"></code>
-  <code><img width="13%" src="./images/ansible-ar21.svg"></code>
-  <br />
-  <code><img width="13%" src="./images/microsoft_azure-ar21.svg"></code>
-  <code><img width="13%" src="./images/docker-ar21.svg"></code>
+  <code><img width="13%" src="./images/remixjs.jpeg"></code>
+  <code><img width="13%" src="./images/git.png"></code>
   <br />
  
 </p>
