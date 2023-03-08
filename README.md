@@ -6,7 +6,7 @@
 
 <br />
 
-A passionate React Developer 🚀 having an experience of designing and building Web applications with **JavaScript / Reactjs / Nodejs** and some other cool libraries and frameworks.
+A passionate Software Developer 🚀 having an experience of designing and building Web applications with **TypeScript / JavaScript / Reactjs / Nodejs** and some other cool libraries and frameworks.
 
 - Student @Conestoga College, Waterloo, Ontario, Canada
 - Currently, learning and exploring **DataStructure & DevOps Tools**
